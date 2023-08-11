@@ -15,4 +15,4 @@ ORDER - CART_ID integer, LOGIN_ID integer, USER_ADDRESS varchar, PAYMENT_ID bigi
 RETURN_PRODUCT - PRODUCT_ID integer, STOCKIS_ID integer, USER_ID integer, PAYMENT_ID biginteger
 
 FEEDBACK - CART_ID integer, USER_ID integer, PRODUCT_ID integer
-hjsgdgjhgfkbm   dskjhkjdkksbk, 
+
