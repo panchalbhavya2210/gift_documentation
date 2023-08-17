@@ -1,17 +1,17 @@
-ADMIN - LOGIN_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger, ADDRESS varchar
+ADMIN - ADMIN_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger, ADDRESS varchar
 
-USER - LOGIN_ID integer, USER_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger, USER_ADDRESS varchar
-
-GIFT STOCKIST - LOGIN_ID integer, NAME varhcar, EMAIL varchar, STOCKIST_ID integer
+USER - LOGIN_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger, USER_ADDRESS varchar
 
 CATEGORY - CAT_ID integer, CATEGORY_NAME varchar
 
-PRODUCT - CAT_ID integer, PRODUCT_ID integer, STOCKIST_ID integer, PRODUCT_NAME varchar, PRODUCT_IMAGE varchar, PRODUCT_PRICE biginteger
+PRODUCT - CAT_ID integer,PRODUCT_QTY integer,  PRODUCT_ID integer, PRODUCT_NAME varchar, PRODUCT_IMAGE varchar, PRODUCT_PRICE biginteger, PRODUCT_DESC varchar
 
 CART -  CART_ID integer, LOGIN_ID integer, PRODUCT_ID integer, PRODUCT_QUANTITY integer, PRODUCT_PRICE biginteger
 
+PAYMENT - PAYMENT_ID biginteger, PAYMENT_METHOD varchar, PRODUCT_ID integer, PRODUCT_QUANTITY integer
+
 ORDER - CART_ID integer, LOGIN_ID integer, USER_ADDRESS varchar, PAYMENT_ID biginteger
 
-RETURN_PRODUCT - PRODUCT_ID integer, STOCKIS_ID integer, USER_ID integer, PAYMENT_ID biginteger
+RETURN_PRODUCT - PRODUCT_ID integer, ORDER_ID integer, LOGIN_ID integer, PAYMENT_ID biginteger
 
-FEEDBACK - CART_ID integer, USER_ID integer, PRODUCT_ID integer
+FEEDBACK -FEEDBACK_ID integer, LOGIN_ID integer, RATING integer, REVIEW varchar
