@@ -15,3 +15,5 @@ ORDER - CART_ID integer, LOGIN_ID integer, USER_ADDRESS varchar, PAYMENT_ID bigi
 RETURN_PRODUCT - PRODUCT_ID integer, ORDER_ID integer, LOGIN_ID integer, PAYMENT_ID biginteger
 
 FEEDBACK -FEEDBACK_ID integer, LOGIN_ID integer, RATING integer, REVIEW varchar
+
+COMPLAIN - COMPLAIN_ID integer, LOGIN_ID integer, COMPLAIN_NAME varchar, COMPLAIN_FIELD varchar, COMPLAIN_DATE date(auto_now) 
