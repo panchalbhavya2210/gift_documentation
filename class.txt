@@ -1,8 +1,10 @@
-ADMIN - ADMIN_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger, ADDRESS varchar
+ADMIN - ADMIN_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger
 
 USER - LOGIN_ID integer, NAME varchar, EMAIL varchar, PASSWORD varchar, PHONE biginteger, USER_ADDRESS varchar
 
-CATEGORY - CAT_ID integer, CATEGORY_NAME varchar
+STOCKIST - STOCKIST_ID integer, NAME varchar, EMAIL varchar , PASSWORD varchar, PHONE biginteger, STOCKIST_ADDRESS varchar
+
+CATEGORY -STOCKIST_ID integer, CAT_ID integer, CATEGORY_NAME varchar
 
 PRODUCT - CAT_ID integer,PRODUCT_QTY integer,  PRODUCT_ID integer, PRODUCT_NAME varchar, PRODUCT_IMAGE varchar, PRODUCT_PRICE biginteger, PRODUCT_DESC varchar
 
