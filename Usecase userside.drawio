@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T15:05:01.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="MCDUMUQdjfmGMsGYeYFB" version="21.8.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-09-24T15:09:41.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="GJgyUlMItaqqaLws2sXy" version="21.8.2" type="github" pages="9">
   <diagram name="Flow Chart" id="ckaKuw8LrtxWBcim2sx2">
     <mxGraphModel dx="1168" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -1072,7 +1072,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sgxeHUog2cZH6Yxro3F1" name="DFD-0">
-    <mxGraphModel dx="1045" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1351,6 +1351,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VPlMWjh0YiY8cVI8Pnuu-1" value="ADD PRODUCT TO CART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2HNQ5y-MCNpuXtPrCKla-1">
+          <mxGeometry x="0.0028" y="1" relative="1" as="geometry">
+            <mxPoint x="48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7E2tcaA0srfmAJ9h43z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="530" as="sourcePoint" />
+            <mxPoint x="510" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="520" />
+              <mxPoint x="520" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7E2tcaA0srfmAJ9h43z-2" value="PAYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K7E2tcaA0srfmAJ9h43z-1">
+          <mxGeometry x="0.2903" y="1" relative="1" as="geometry">
+            <mxPoint x="33" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7E2tcaA0srfmAJ9h43z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.724;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9PPHyEFsFxjJjCpSgLd9-1" target="6cNEeVTxIhp1t_qQzhim-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="435" as="sourcePoint" />
+            <mxPoint x="752" y="471" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="463" y="300" />
+              <mxPoint x="730" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7E2tcaA0srfmAJ9h43z-4" value="MAKE PAYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K7E2tcaA0srfmAJ9h43z-3">
           <mxGeometry x="0.0028" y="1" relative="1" as="geometry">
             <mxPoint x="48" as="offset" />
           </mxGeometry>
