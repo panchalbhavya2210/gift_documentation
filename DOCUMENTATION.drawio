@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T15:35:18.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="g25puXUM9V8uvuqDHvep" version="22.0.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-06T15:52:06.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jMH1QfNa5DVruRb9VUbB" version="22.0.3" type="github" pages="18">
   <diagram name="Flow Chart" id="ckaKuw8LrtxWBcim2sx2">
-    <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Admin Case" id="FkUK_h-arK-3WIJIePmX">
-    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Stockist use case" id="6jwkZcTOZNXSQL_VDaay">
-    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="UooUfEEvnuomhlu1D28a-0" />
         <mxCell id="UooUfEEvnuomhlu1D28a-1" parent="UooUfEEvnuomhlu1D28a-0" />
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="User Case" id="suXHOlS2ulkbc1YVM9yn">
-    <mxGraphModel dx="1034" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UlsBG7T2p5n-A1DPiZ7" name="Activity Diagram User">
-    <mxGraphModel dx="1134" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,7 +686,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-oczsgwlRu3LPMJcWBuQ" name="Activity Diagram Stockist">
-    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,7 +788,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity Diagram Admin" id="Fg6H88jUvg1mKsH7QpzA">
-    <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -890,7 +890,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Database diagram" id="5iN2SZwCoFm_A6-41Eaj">
-    <mxGraphModel dx="802" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1566" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1117,7 +1117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sgxeHUog2cZH6Yxro3F1" name="DFD-0">
-    <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1750,7 +1750,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b2-C_cP-K1HlKql-WOVV" name="DFD-1(ADMIN)">
-    <mxGraphModel dx="793" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3015" dy="3218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2012,7 +2012,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tTwQLGx43QLqnfIto0Xt" name="DFD-1(STOCKIST)">
-    <mxGraphModel dx="1051" dy="3762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="3773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2224,7 +2224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD-1(USER)" id="iYwLEmlCHguxTA_Pqzb1">
-    <mxGraphModel dx="1276" dy="3883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1780" dy="3896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
         <mxCell id="wHM9nxrx7CqodGyBZtNA-0" />
         <mxCell id="wHM9nxrx7CqodGyBZtNA-1" parent="wHM9nxrx7CqodGyBZtNA-0" />
@@ -2560,7 +2560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="efEX-Q2yZ2zBemv3NkNv" name="DFD-2 (CATEGORY)">
-    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2765,7 +2765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6M0DZKQJZFevTwmsblSx" name="DFD-2(PRODUCT)">
-    <mxGraphModel dx="1379" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2970,7 +2970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uSD7M9mCxXxE1QHdTnlA" name="User Login">
-    <mxGraphModel dx="1884" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2096" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3230,7 +3230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iihhgI2ZwkZAfjLMxbSg" name="Stockist Login">
-    <mxGraphModel dx="1134" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3490,7 +3490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8mf7nlCRGr8NLLF84q0S" name="Admin Login">
-    <mxGraphModel dx="697" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3750,7 +3750,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ZQj6nUfm3kBhCqmn2pU" name="ER">
-    <mxGraphModel dx="2693" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="4315" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
