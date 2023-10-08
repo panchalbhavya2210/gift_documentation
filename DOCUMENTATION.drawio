@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T10:52:56.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lcjbNVJdrBqWWs2GRPoA" version="22.0.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-08T11:48:46.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0QEbiBqPAoIpQNZN33MN" version="22.0.4" type="github" pages="18">
   <diagram name="Flow Chart" id="ckaKuw8LrtxWBcim2sx2">
     <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Admin Case" id="FkUK_h-arK-3WIJIePmX">
-    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Stockist use case" id="6jwkZcTOZNXSQL_VDaay">
-    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="UooUfEEvnuomhlu1D28a-0" />
         <mxCell id="UooUfEEvnuomhlu1D28a-1" parent="UooUfEEvnuomhlu1D28a-0" />
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="User Case" id="suXHOlS2ulkbc1YVM9yn">
-    <mxGraphModel dx="1246" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UlsBG7T2p5n-A1DPiZ7" name="Activity Diagram User">
-    <mxGraphModel dx="1346" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,7 +788,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity Diagram Admin" id="Fg6H88jUvg1mKsH7QpzA">
-    <mxGraphModel dx="1246" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1669,7 +1669,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AY-WwXtIjBUBM8o4tD3w-1" value="VIEW PAYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="pwfXykqw8-ua0gAfdQM7-7" vertex="1" connectable="0">
+        <mxCell id="AY-WwXtIjBUBM8o4tD3w-1" value="MANAGE PAYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="pwfXykqw8-ua0gAfdQM7-7" vertex="1" connectable="0">
           <mxGeometry x="-0.7138" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
